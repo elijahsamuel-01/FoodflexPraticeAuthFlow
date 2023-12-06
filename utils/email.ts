@@ -33,7 +33,7 @@ export const sendMail = async () => {
 
     const mailerOption = {
       from: "Welcome back <codelabbest@gmail.com>",
-      to: "shecodesaj@gmail.com",
+      to: "samueleliah85@gmail.com",
       subject: "Account Verification",
       html: `<p>test</p>`,
       text: "We are here",
