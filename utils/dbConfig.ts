@@ -1,4 +1,3 @@
-import mongoose from "mongoose";
 import { connect } from "mongoose";
 
 const URL: string | undefined = process.env.DATABASE_STRING;
